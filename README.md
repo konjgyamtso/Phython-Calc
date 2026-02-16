@@ -1,39 +1,17 @@
-# Simple Calculator Program
-# Author: Konj Gyamtso
-# Language: Python
+# Calculator (Python)
 
-def add(a, b):
-    return a + b
+This is a simple calculator program written in Python.
 
-def subtract(a, b):
-    return a - b
+Features:
+- Addition
+- Subtraction
+- Multiplication
+- Division
 
-def multiply(a, b):
-    return a * b
+Concepts Used:
+- Functions
+- Conditional statements
+- User input/output
 
-def divide(a, b):
-    if b == 0:
-        return "Error! Division by zero."
-    return a / b
-
-
-print("Simple Calculator")
-print("1. Add")
-print("2. Subtract")
-print("3. Multiply")
-print("4. Divide")
-
-choice = int(input("Enter your choice (1-4): "))
-num1 = float(input("Enter first number: "))
-num2 = float(input("Enter second number: "))
-
-if choice == 1:
-    print("Result:", add(num1, num2))
-elif choice == 2:
-    print("Result:", subtract(num1, num2))
-elif choice == 3:
-    print("Result:", multiply(num1, num2))
-elif choice == 4:
-    print("Result:", divide(num1, num2))
-else:
-    print("Invalid choice")
+Purpose:
+This project was created to practice Python fundamentals.
