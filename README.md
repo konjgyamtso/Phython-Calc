@@ -1,6 +1,6 @@
 # Calculator (Python/Java)
 
-This is a simple calculator program written in Python And Java.
+This is a simple calculator program written in Python and Java.
 
 Features:
 - Addition
@@ -14,4 +14,4 @@ Concepts Used:
 - User input/output
 
 Purpose:
-This project was created to practice Python fundamentals.
+This project was created to practice Python and Java fundamentals.
