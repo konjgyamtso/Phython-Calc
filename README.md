@@ -1,6 +1,6 @@
-# Calculator (Python)
+# Calculator (Python/Java)
 
-This is a simple calculator program written in Python.
+This is a simple calculator program written in Python And Java.
 
 Features:
 - Addition
